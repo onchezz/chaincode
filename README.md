@@ -1,2 +1,2 @@
 # chaincode
-Write and deploy smart contract code on a local devne
+Write and deploy smart contract code on a local devnet
