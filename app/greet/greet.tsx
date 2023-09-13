@@ -15,9 +15,8 @@ export default function Greet() {
   return (
   <>
   <div>
-    <span className='place-content-center m-8'>Welcome to code space </span>
-    <Button>Check ui 
-    </Button>
+    <span className='sp m-8'>Welcome to code space </span>
+    <Button> Devnet Accounts</Button>
   </div>
   </>
   )
